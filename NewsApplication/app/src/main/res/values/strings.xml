@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Daily News</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Current location</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_clear_bookmark">Clear</string>
+    <string name="menu_logout">Logout</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="min_temp">Min : </string>
+    <string name="max_temp">Max : </string>
+    <string name="page_bookmarked">Page saved</string>
+    <string name="page_already_bookmarked">Page already bookmarked</string>
+    <string name="bookmark_pages_deleted">Bookmark pages are deleted</string>
+</resources>

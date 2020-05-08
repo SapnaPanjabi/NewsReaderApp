@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="colorPrimary">#D03438</color>
+    <color name="colorPrimaryDark">#67191B</color>
+    <color name="colorAccent">#F65D63</color>
+
+    <color name="red_dark">#67191B</color>
+    <color name="red">#D03438</color>
+    <color name="red_light">#E74C52</color>
+    <color name="red_lighter">#F65D63</color>
+
+    <color name="grey">#c0c0c0</color>
+
+        <color name="orange_lighter">#FDAE38</color>
+
+        <color name="ocean_green_light">#9CCDBC</color>
+        <color name="ocean_green_lighter">#B5E3D5</color>
+
+        <color name="steel_blue_lighter">#94C0D6</color>
+
+
+
+        <color name="button_disable_bg_color">#BDBEC1</color>
+
+
+        <color name="divider_color">#E8E8E8</color>
+        <color name="border_color">#EBEEF1</color>
+        <color name="text_grey_disabled">#BDBFC1</color>
+        <!-- Notification feed -->
+        <color name="feed_bg">#d3d6db</color>
+        <color name="current_values_color">#A1B5BC</color>
+    </resources>
