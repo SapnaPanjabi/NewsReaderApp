@@ -1,8 +1,8 @@
 ### NewsReaderApp
 
-* #[About](#about)
-* #[Features](#features)
-* #[Screenshots](#screenshots)
+* [About](#about)
+* [Features](#features)
+* [Screenshots](#screenshots)
 
 ## About
 
