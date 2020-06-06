@@ -15,8 +15,8 @@
 
 <table>
   <tr>
-    <td padding = "20px"><img height = "700" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image1.png"></td>
-    <td padding = "20px"><img height = "700" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image2.png"></td>
+    <td padding = "40px"><img height = "700" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image1.png"></td>
+    <td padding = "40px"><img height = "700" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image2.png"></td>
   </tr>
   <tr>
     <td><img height = "500" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image3.png"></td>
