@@ -14,10 +14,9 @@
 ## Screenshots
 
 <img margin = 5px align="left" height = "640" width ="360" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image1.png">
-<img align="right" height = "640" width ="360" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image2.png">
-<img margin= 5px align="left" height = "640" width ="360" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image3.png">
-<img margin= 5px align="right" height = "640" width ="360" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image4.png">
-<img margin= 5px align="left" height = "640" width ="360" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image5.png">
+<img align="center" height = "640" width ="360" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image3.png">
+<img align="right" height = "640" width ="360" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image5.png">
+
 <table width=100%>
   <tr>
     <td width=50% style="margin: 20px; padding: 5px;"><img height = "640" width ="360" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image1.png"></td>
