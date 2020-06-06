@@ -15,8 +15,8 @@
 
 <table style="width:100%;">
   <tr>
-    <td style="width:50%;"><img height = "480" width ="300" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image1.png"></td>
-    <td style="width:50%;"><img height = "480" width ="300" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image2.png"></td>
+    <td style="width:50%;"><img height = "640" width ="360" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image1.png"></td>
+    <td style="width:50%;"><img height = "640" width ="360" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image2.png"></td>
   </tr>
   <tr>
     <td><img height = "500" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image3.png"></td>
