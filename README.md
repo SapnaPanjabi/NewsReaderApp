@@ -14,7 +14,7 @@
 ## Screenshots
 
 <table style="width:100%;">
-  <tr>
+  <tr style="width:100%;">
     <td style="width:50%;"><img height = "640" width ="360" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image1.png"></td>
     <td style="width:50%;"><img height = "640" width ="360" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image2.png"></td>
   </tr>
