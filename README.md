@@ -15,6 +15,7 @@
 
 
 ![image](https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image1.png)
+![image](https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image2.png)
 
 
 
