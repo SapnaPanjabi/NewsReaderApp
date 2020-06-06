@@ -13,9 +13,9 @@
 
 ## Screenshots
 
-<img margin = 5px align="left" height = "640" width ="360" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image1.png">
-<img align="center" height = "640" width ="360" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image3.png">
-<img align="right" height = "640" width ="360" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image5.png">
+<img margin = 5px align="left" height = "480" width ="270" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image1.png">
+<img align="center" height = "480" width ="270" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image3.png">
+<img align="right" height = "480" width ="270" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image5.png">
 
 <table width=100%>
   <tr>
