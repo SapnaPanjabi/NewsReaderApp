@@ -15,9 +15,9 @@
 
 <table style="width:1500px; table-layout:fixed;">
   <tr style="width:100%;">
-    <td style="width:50% padding=40px";><img height = "640" width ="360" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image1.png"></td>
-    <td><img height = "560" width="20"/></td>
-    <td style="width:50% padding=40px";><img height = "640" width ="360" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image2.png"></td>
+    <td style="width:50% padding:40px";><img height = "640" width ="360" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image1.png"></td>
+    <td style="width:5%"></td>
+    <td style="width:50% padding:40px";><img height = "640" width ="360" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image2.png"></td>
   </tr>
   <tr style="width:100%;">
     <td style="width:50% padding=40px";><img height = "560" width ="315" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image3.png"></td>
