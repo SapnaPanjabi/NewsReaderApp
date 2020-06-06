@@ -14,8 +14,7 @@
 ## Screenshots
 
 
-![image]
-(NewsReaderApp/screenshots/image1.png)
+![image](NewsReaderApp/screenshots/image1.png)
 
 
 
