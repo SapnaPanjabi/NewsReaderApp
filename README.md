@@ -13,7 +13,7 @@
 
 ## Screenshots
 
-[["https://github.com/SapnaPanjabi/NewsReaderApp/screenshots/image1.png"]]
+[["https://github.com/SapnaPanjabi/SapnaPanjabi/NewsReaderApp/screenshots/image1.png"]]
 
 ![image]
 (https://github.com/SapnaPanjabi/NewsReaderApp/screenshots/image1.png)
