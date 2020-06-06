@@ -13,10 +13,10 @@
 
 ## Screenshots
 
-![image](../screenshots/image1.png)
-![image](../screenshots/image2.png)
-![image](../screenshots/image3.png)
-![image](../screenshots/image4.png)
-![image](../screenshots/image5.png)
+![image] (NewsReaderApp/screenshots/image1.png)
+![image] (NewsReaderApp/screenshots/image2.png)
+![image] (NewsReaderApp/screenshots/image3.png)
+![image] (NewsReaderApp/screenshots/image4.png)
+![image] (NewsReaderApp/screenshots/image5.png)
 
 
