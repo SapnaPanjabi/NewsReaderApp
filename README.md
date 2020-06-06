@@ -22,4 +22,4 @@
 
 ## How app is running
 
-[![Watch the video](https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image1.png)](https://youtu.be/ANWTPa1xKE8)
+[![Watch the video](https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/YoutubeLink.png)](https://youtu.be/ANWTPa1xKE8)
