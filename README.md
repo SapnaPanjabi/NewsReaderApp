@@ -1,4 +1,4 @@
-# NewsReaderApp
+## NewsReaderApp
 Features of this app:
 
 Showing news api datain Recycler View using Livedata
