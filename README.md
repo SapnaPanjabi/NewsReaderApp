@@ -8,8 +8,8 @@
 
 ## Features
 
-* # Showing news api datain Recycler View using Livedata
-* # Showing weather api data in app using Livedata
+* Showing news api datain Recycler View using Livedata
+* Showing weather api data in app using Livedata
 
 ## Screenshots
 
