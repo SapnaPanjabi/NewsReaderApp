@@ -3,7 +3,7 @@
 * [About](#about)
 * [Features](#features)
 * [Screenshots](#screenshots)
-* [Video] How app is running
+* [Video](#How app is running)
 
 ## About
 
@@ -22,4 +22,4 @@
 
 ## How app is running
 
-![Watch the video](https://www.youtube.com/watch?v=ANWTPa1xKE8&feature=youtu.be)
+![Watch the video](https://youtu.be/ANWTPa1xKE8)
