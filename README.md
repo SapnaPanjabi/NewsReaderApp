@@ -17,7 +17,7 @@
 <img align="right" height = "640" width ="360" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image2.png">
 </div>
 <br><br><br>
-<div style ="margin 0,0,20,0">
+<div style="padding:20px;">
 <img align="left" height = "640" width ="360" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image3.png">
 <img align="right" height = "640" width ="360" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image4.png">
   </div>
