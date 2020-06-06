@@ -13,6 +13,10 @@
 
 ## Screenshots
 
+<br>
+<img height = "700" src = "https://github.com/SapnaPanjabi/NewsReaderApp/screenshots/image1.png"/>
+<br>
+
 ![image]
 (https://github.com/SapnaPanjabi/NewsReaderApp/screenshots/image1.png)
 ![image]
