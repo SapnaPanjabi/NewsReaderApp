@@ -15,14 +15,14 @@
 
 <table style="width:100%; table-layout:fixed;">
   <tr style="width:100%;">
-    <td style="width:50%;"><img height = "640" width ="360" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image1.png"></td>
-    <td style="width:50%;"><img height = "640" width ="360" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image2.png"></td>
+    <td style="width:50% padding=40px";><img height = "480" width ="270" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image1.png"></td>
+    <td style="width:50% padding=40px";><img height = "480" width ="270" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image2.png"></td>
   </tr>
   <tr style="width:100%;">
-    <td style="width:50%;"><img height = "640" width ="360" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image3.png"></td>
-    <td style="width:50%;"><img height = "640" width ="360" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image4.png"></td>
+    <td style="width:50%;"><img height = "480" width ="270" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image3.png"></td>
+    <td style="width:50%;"><img height = "480" width ="270" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image4.png"></td>
   </tr>
  <tr style="width:100%;">
-    <td style="width:50%;"><img height = "640" width ="360" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image5.png"></td>
+    <td style="width:50%;"><img height = "480" width ="270" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image5.png"></td>
   </tr>
  </table>
