@@ -3,7 +3,7 @@
 * [About](#about)
 * [Features](#features)
 * [Screenshots](#screenshots)
-* [How app is running](#HowAppIsRunning)
+* [How app is running](#howAppIsRunning)
 
 ## About
 
