@@ -15,18 +15,14 @@
 
 <table>
   <tr>
-    <td><img height = "700" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image1.png"></td>
-    <td><img height = "700" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image2.png"></td>
+    <td><img height = "500" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image1.png"></td>
+    <td><img height = "500" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image2.png"></td>
+  </tr>
+  <tr>
+    <td><img height = "500" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image3.png"></td>
+    <td><img height = "500" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image4.png"></td>
+  </tr>
+  <tr>
+    <td><img height = "500" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image5.png"></td>
   </tr>
  </table>
-<br>
-|<img height = "700" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image1.png">|<img height = "700" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image2.png">|
-<br>
-|<img height = "700" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image3.png"/>|
-<img height = "700" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image4.png"/>|
-<br>
-|<img height = "700" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image5.png"/>|
-<br>
-
-
-
