@@ -13,6 +13,12 @@
 
 ## Screenshots
 
+<table>
+  <tr>
+    <td><img height = "700" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image1.png"></td>
+    <td><img height = "700" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image2.png"></td>
+  </tr>
+ </table>
 <br>
 |<img height = "700" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image1.png">|<img height = "700" src="https://raw.githubusercontent.com/SapnaPanjabi/NewsReaderApp/master/screenshots/image2.png">|
 <br>
