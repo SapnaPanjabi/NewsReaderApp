@@ -13,10 +13,10 @@
 
 ## Screenshots
 
-![image](../screenshot/image1.png)
-![image](../screenshot/image2.png)
-![image](../screenshot/image3.png)
-![image](../screenshot/image4.png)
-![image](../screenshot/image5.png)
+![image](../screenshots/image1.png)
+![image](../screenshots/image2.png)
+![image](../screenshots/image3.png)
+![image](../screenshots/image4.png)
+![image](../screenshots/image5.png)
 
 
