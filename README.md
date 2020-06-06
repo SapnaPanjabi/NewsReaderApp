@@ -13,10 +13,15 @@
 
 ## Screenshots
 
-![image](https://github.com/SapnaPanjabi/NewsReaderApp/screenshots/image1.png)
-![image](https://github.com/SapnaPanjabi/NewsReaderApp/screenshots/image2.png)
-![image](https://github.com/SapnaPanjabi/NewsReaderApp/screenshots/image3.png)
-![image](https://github.com/SapnaPanjabi/NewsReaderApp/screenshots/image4.png)
-![image](https://github.com/SapnaPanjabi/NewsReaderApp/screenshots/image5.png)
+![image]
+(https://github.com/SapnaPanjabi/NewsReaderApp/screenshots/image1.png)
+![image]
+(https://github.com/SapnaPanjabi/NewsReaderApp/screenshots/image2.png)
+![image]
+(https://github.com/SapnaPanjabi/NewsReaderApp/screenshots/image3.png)
+![image]
+(https://github.com/SapnaPanjabi/NewsReaderApp/screenshots/image4.png)
+![image]
+(https://github.com/SapnaPanjabi/NewsReaderApp/screenshots/image5.png)
 
 
