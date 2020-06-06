@@ -7,10 +7,15 @@
 
 ## About
 
+NewsReaderApp getting data from newsapi.org and display news category wise using Livedata.
+Along with this, this app will get weather data of current location using weather api. 
+
 ## Features
 
-* Showing news api datain Recycler View using Livedata
+* Showing news api data in Recycler View using Livedata 
 * Showing weather api data in app using Livedata
+
+LiveData is an observable data holder class. Unlike a regular observable, LiveData is lifecycle-aware, meaning it respects the lifecycle of other app components, such as activities, fragments, or services. This awareness ensures LiveData only updates app component observers that are in an active lifecycle state which improves the performance of app.
 
 ## Screenshots
 
