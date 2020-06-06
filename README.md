@@ -22,4 +22,4 @@
 
 ## How app is running
 
-![Watch the video](https://youtu.be/ANWTPa1xKE8)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/ANWTPa1xKE8)
